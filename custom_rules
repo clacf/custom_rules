@@ -1,5 +1,4 @@
 payload:
-  - '+.kk.stream'
-  - '+.kkbox.com'
-  - '+.kkbox.com.tw'
-  - '+.kkfcc03.com'
+  - '+.openai.com'
+  - '+.chatgpt.com'
+  - '+.cloudflare.com'
